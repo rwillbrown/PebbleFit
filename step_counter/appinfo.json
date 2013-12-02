@@ -1,0 +1,17 @@
+{
+  "uuid": "0295b537-d905-49d4-90d6-5354c718b132",
+  "shortName": "PebbleFit",
+  "longName": "PebbleFit",
+  "companyName": "Will Brown",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
